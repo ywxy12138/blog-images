@@ -1,0 +1,47 @@
+{
+  "note": "仅用于个人收藏与角色配图展示；版权属于对应作品权利人，未声明开放许可。",
+  "images": [
+    {
+      "file": "one-hundred-years-of-solitude.jpg",
+      "name": "百年孤独",
+      "originalImage": "https://sykbooks.com/cdn/shop/files/9787573510921.jpg?v=1761496965&width=480",
+      "source": "https://sykbooks.com/products/9787573510921"
+    },
+    {
+      "file": "three-body-problem.jpg",
+      "name": "三体",
+      "originalImage": "https://img5.xinhuashudian.com/images/2020/07/29/ee5f947a-5cfe-4c8a-a5a3-846deca1c355.jpg",
+      "source": "https://item.xhsd.com/items/1010000100871464"
+    },
+    {
+      "file": "brothers.jpg",
+      "name": "兄弟",
+      "originalImage": "https://image12.bookschina.com/2023/20230717/1/8880201.jpg",
+      "source": "https://www.bookschina.com/8880201.htm"
+    },
+    {
+      "file": "mbdtf.jpg",
+      "name": "My Beautiful Dark Twisted Fantasy",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/en/f/f0/My_Beautiful_Dark_Twisted_Fantasy.jpg",
+      "source": "https://en.wikipedia.org/wiki/My_Beautiful_Dark_Twisted_Fantasy"
+    },
+    {
+      "file": "inside-the-cable-temple.jpg",
+      "name": "冀西南林路行",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/en/d/d9/Inside_the_cable_temple_album_cover.jpeg",
+      "source": "https://en.wikipedia.org/wiki/Inside_the_Cable_Temple"
+    },
+    {
+      "file": "omnipotent-youth-society.jpg",
+      "name": "万能青年旅店",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/en/0/0c/Album_cover_of_Omnipotent_Youth_Society.jpg",
+      "source": "https://en.wikipedia.org/wiki/Omnipotent_Youth_Society_(album)"
+    },
+    {
+      "file": "eren-akuma-no-ko.png",
+      "name": "少年艾伦／恶魔之子动画版",
+      "originalImage": "https://static.animecorner.me/2022/01/ai-higuchi-attack-on-titan-ed.png",
+      "source": "https://animecorner.me/ai-higuchis-attack-on-titan-ed-gets-special-mv-featuring-anime-scenes/"
+    }
+  ]
+}
